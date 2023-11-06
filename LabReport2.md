@@ -77,9 +77,17 @@ The message is updated to "1. Hello\n2. How are you\n," showing both messages wi
 
 
 # Part 2
-![Alt text](image.png)
-![Alt text](image-1.png)
-![Alt text](image-2.png)
+![Alt text](image-7.png)
+The private key file is id_rsa
+
+<br>
+
+![Alt text](image-8.png)
+The public key file is id_rsa.pub
+
+Login to ieng6 without password
+![Alt text](image-9.png)
+![Alt text](image-10.png)
 
 # Part 3
 I gained a deeper understanding of web server development. Specifically, I learned how to create a simple web server using Java and handle HTTP requests, which is a fundamental skill for building web applications and services. This hands-on experience was a valuable addition to my knowledge of server-side programming.
